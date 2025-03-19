@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/92817c55-db57-4506-8b5e-c20f90f9c7b3)# Cyptomzombie1
+
 CryptoZombie Level 1
 I has learned the basics of Ethereum game development, and created , a Level 1 CryptoZombie as proof!
 
